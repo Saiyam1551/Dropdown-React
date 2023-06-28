@@ -35,20 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "This is simple dropdown project in react js",
+  "description": "This project is basic dropdown react.",
   "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Saiyam1551/Dropdown-React.git"
-  },
-  "keywords": [
-    "dropdown"
-  ],
-  "author": "saiyam jain",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Saiyam1551/Dropdown-React/issues"
-  },
-  "homepage": "https://github.com/Saiyam1551/Dropdown-React#readme"
+  "author": "Saiyam Jain",
+  "license": "ISC"
 }
